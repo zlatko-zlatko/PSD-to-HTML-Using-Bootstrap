@@ -1,2 +1,2 @@
 # PSD-to-HTML-Using-Bootstrap-for-Responsivnes-
-Another website design I have found online, for which I have done the HTML and CSS formats. In this website I have pracitced Bootstra
+Website PSD design I have found online, and then made the HTML and CSS files. In this website Bootstrap responsivness is implemented
